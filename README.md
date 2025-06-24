@@ -18,4 +18,4 @@ Visualize the global impact of COVID-19 and vaccination progress through interac
 - Dataset: `country_vaccinations.csv`
 
 ## 🖼️ Dashboard Screenshot
-![Dashboard](screenshot.png)
+![Dashboard](screenshot.jpg)
